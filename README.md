@@ -2,6 +2,8 @@
 
 Bu bot, Discord üzerinden slash komutlarıyla Telegram'daki hedef bir bot ile iletişim kurmanızı sağlar. Discord üzerinden arama yaptığınızda Telegram botundan sonuçları çeker ve dosyaları size iletir.
 
+TELEGRAMDAKİ BOTUN 3.4 MİLYAR VERİSİ VARDIR
+
 ## Kurulum ve Kurulum Adımları
 
 Botu çalıştırmadan önce aşağıdaki adımları sırasıyla takip edin:
