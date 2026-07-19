@@ -53,7 +53,7 @@ DOMAIN_PATTERN = re.compile(
 # ------------------- CONFIG -------------------
 TELEGRAM_API_ID = 0                                     # my.telegram.org'dan al (örn: 123456)
 TELEGRAM_API_HASH = ""                                  # my.telegram.org'dan al (örn: "abcdef123456...")
-TELEGRAM_BOT_USERNAME = "@bot_username"                 # köprü kurulacak Telegram botunun kullanıcı adı
+TELEGRAM_BOT_USERNAME = "@dead_handbot"                 # köprü kurulacak Telegram botunun kullanıcı adı
 DISCORD_BOT_TOKEN = ""                                  # Discord bot tokenini girin
 TELETHON_SESSION_NAME = "bridge_session"                # session dosyası adı, sabit kalsın
 
