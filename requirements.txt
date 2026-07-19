@@ -1,0 +1,9 @@
+# Telegram -> Discord Bridge Bot bağımlılıkları
+# Kurulum:  pip install -r requirements.txt
+#
+# Not: asyncio, sqlite3, json, io, re, os, sys, contextlib Python'un
+# yerleşik kütüphaneleridir; ayrıca kurulmalarına gerek yoktur.
+
+telethon>=1.44.0      # Telegram hesabı üzerinden köprü (Telethon client)
+discord.py>=2.7.1     # Discord botu + slash komutları (app_commands)
+aiohttp>=3.14.1       # webhook log + gofile.io yükleme (async HTTP)
